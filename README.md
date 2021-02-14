@@ -11,4 +11,4 @@ Program for joining all PDF's in current directory
 * And saved in 'Magic PDF/Magic PDF Joiner Result.pdf'
 
 # NB!
-* If working folder contains any folders the program may not work!
+* If working folder contains any other folders the program may not work!
