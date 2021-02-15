@@ -1,3 +1,4 @@
+""" by Martin Maasik 2021 """
 import os
 import os.path
 import sys
@@ -14,7 +15,7 @@ for (dirpath, dirnames, filenames) in walk(cwd):
 print(f)
 os.mkdir("Magic PDF")
 
-merger = PdfFileMerger()
+merger = PdfFileMerger(strict=False)
 
 for pdf in f:
     merger.append(pdf)
