@@ -26,4 +26,4 @@ merger = PdfFileMerger(strict=False)
 
 ## To create executable with heart icon('magic.ico'):
 * pip install pyinstaller
-* pyinstaller -F -i "magic.ico" reader.py
+* pyinstaller -F -i "magic.ico" Magic.py
