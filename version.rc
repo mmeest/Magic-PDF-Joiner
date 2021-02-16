@@ -22,7 +22,7 @@ VSVersionInfo(
         StringStruct(u'OriginalFilename', u'Magic.Exe'),
         StringStruct(u'ProductName', u'Magic PDF Joiner by Martin Maasik'),
         StringStruct(u'Info', u'https://github.com/mmeest/Magic-PDF-Joiner'),
-        StringStruct(u'ProductVersion', u'2021.02.15')])
+        StringStruct(u'ProductVersion', u'2021.02.16')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]
