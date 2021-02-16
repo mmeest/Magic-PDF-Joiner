@@ -5,6 +5,9 @@
 # Magic-PDF-Joiner
 Program for joining all PDF's in current directory
 
+# Licence
+* Freeware GNUv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
 ## Features
 * Doubleclick on 'Magic PDF Joiner.exe'
 * All PDF's in current directory will be joined
