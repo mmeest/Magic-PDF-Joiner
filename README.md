@@ -1,5 +1,5 @@
 <p align="center">
-<img src="magic.ico" width="60" height="60">
+<img src="pdf.png" height="60">
 </p>
 
 # Magic-PDF-Joiner
