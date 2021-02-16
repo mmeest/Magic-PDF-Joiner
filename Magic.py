@@ -29,7 +29,8 @@ merger = PdfFileMerger(strict=False)    # strict=False for unindexed PDF's
 for pdf in f:                           # Iterate thru created array
     merger.append(pdf)                  # PDF's will be merged together
 
-if f.size:                              # Check if array is not empty
+""" if f.size: """                              
+if f:                                   # Check if array is not empty
     os.mkdir("Magic PDF")               # Creating new folder()
     merger.write("Magic PDF/Magic PDF Joiner Result.pdf")   # Saving new file
 
