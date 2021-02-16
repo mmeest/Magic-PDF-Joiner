@@ -15,6 +15,7 @@ Program for joining all PDF's in current directory
 ## V.2021.02.16
 * Ignoring directories in working folder
 * If no PDF's in working directory, then nothing will be written
+* Added file description to executable('version.rc')
 
 ## V.2021.02.15
 * Removed 'xref table not zero-indexed' error by adding strict=False
