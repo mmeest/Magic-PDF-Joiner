@@ -10,10 +10,11 @@ Program for joining all PDF's in current directory
 * All PDF's in current directory will be joined
 * And saved in 'Magic PDF/Magic PDF Joiner Result.pdf'
 
-# NB!
-* If working folder contains any other folders the program may not work!
-
 # Version history:
+
+## V.2021.02.16
+* Ignoring directories in working folder
+* If no PDF's in working directory, then nothing will be written
 
 ## V.2021.02.15
 * Removed 'xref table not zero-indexed' error by adding strict=False
