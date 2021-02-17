@@ -16,21 +16,21 @@ Program for joining all PDF's in current directory
 * All PDF's in current directory will be joined
 * And saved in 'Magic PDF/Magic PDF Joiner Result.pdf'
 
-# Version history:
+## Version history:
 
-## V.2021.02.16
+**V.2021.02.16**
 * Ignoring directories in working folder
 * If no PDF's in working directory, then nothing will be written
 * Added file description to executable('version.rc')
 * Commented code line-by-line
 
-## V.2021.02.15
+**V.2021.02.15**
 * Removed 'xref table not zero-indexed' error by adding strict=False
 ```
 merger = PdfFileMerger(strict=False)
 ```
 
-## V.2021.02.12
+**V.2021.02.12**
 * Initial version
 
 ## To create executable with heart icon('magic.ico'):
