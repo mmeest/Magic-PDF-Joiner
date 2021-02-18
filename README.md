@@ -3,8 +3,6 @@
 </p>
 
 # Magic-PDF-Joiner
-[![Python version][3.7.7]][https://www.python.org/doc/versions/]
-[![License][Freeware: GNUv2]][https://www.gnu.org/licenses/old-licenses/gpl-2.0.html]
 Program for joining all PDF's in current directory
 
 ## Author
