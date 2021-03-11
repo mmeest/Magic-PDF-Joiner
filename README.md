@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/34022590/110830248-aedd0d00-82a1-11eb-92bf-1a53e2e3724a.png" width="150px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/110830248-aedd0d00-82a1-11eb-92bf-1a53e2e3724a.png" width="350px"></p>
 
 <h1 align="center">
     <strong>Magic PDF Joiner</strong>
