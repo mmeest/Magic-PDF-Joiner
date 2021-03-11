@@ -1,9 +1,13 @@
-<p align="center">
-<img src="pdf.png" height="90">
-</p>
 
-# Magic-PDF-Joiner
-Program for joining all PDF's in current directory
+
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/110830248-aedd0d00-82a1-11eb-92bf-1a53e2e3724a.png" width="150px"></p>
+
+<h1 align="center">
+    <strong>Magic PDF Joiner</strong>
+</h1>
+<h3 align="center">
+    Program for joining all PDF's in current directory
+</h3>
 
 ## Author
 * Martin Maasik (2021)
