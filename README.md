@@ -9,18 +9,41 @@
     Program for joining all PDF's in current directory
 </h3>
 
-## Author
+<hr>
+
+### Contents
+- [Author](#author)
+- [License](#license)
+- [Download](#download)
+- [Features](#features)
+- [Version History](#version-history)
+- [To create executable with heart icon](#to-create-executable-with-heart-icon)
+
+<hr>
+
+### Author
 * Martin Maasik (2021)
 
-## License
+<hr>
+
+### License
 * Freeware GNUv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-## Features
+<hr>
+
+### Download
+Download latest executable: https://github.com/mmeest/Magic-PDF-Joiner/raw/main/Magic_PDF_Joiner.exe
+
+<hr>
+
+### Features
 * Doubleclick on 'Magic PDF Joiner.exe'
 * All PDF's in current directory will be joined
 * And saved in 'Magic PDF/Magic PDF Joiner Result.pdf'
 
-## Version history:
+<hr>
+
+### Version history
 
 **V.2021.02.16**
 * Ignoring directories in working folder
@@ -37,6 +60,12 @@ merger = PdfFileMerger(strict=False)
 **V.2021.02.12**
 * Initial version
 
-## To create executable with heart icon('magic.ico'):
+<hr>
+
+### To create executable with heart icon
 * pip install pyinstaller
 * pyinstaller -F -i "magic.ico" -n Magic_PDF_Joiner --version-file=.\version.rc Magic.py
+
+<hr>
+
+# HAPPY CODING !!! :)
